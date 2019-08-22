@@ -1,4 +1,4 @@
-# RESTful API Example with golang for Velociraptor
+# RESTful API Example with golang gorilla with docker
 This is restful api is build using only with **gorilla/mux**.
 Data from the file is loaded as the server starts.
 Data is stored in In-memory data store.
